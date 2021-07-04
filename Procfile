@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -Dspring.profiles.active=prod -jar target/Projeto_Final-Igor_Machado.jar
+web: java -Dserver.port=$PORT -Dspring.profiles.active=prod -jar target/Projeto_Final-Igor_Machado-0.0.1-SNAPSHOT.jar
